@@ -11,5 +11,10 @@
     "email": "rest1@gmail.com",
     "password": "password",
     "id": "98bd0f07"
+  },
+  {
+    "email": "rest3@gmail.com",
+    "password": "pass",
+    "id": "d869e858"
   }
 ]
